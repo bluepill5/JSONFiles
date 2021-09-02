@@ -1,0 +1,27 @@
+{
+    "Bancomer": {
+        "Producto1": 5,
+        "Producto2": 10,
+        "Producto3": 15
+    },
+    "Banamex": {
+        "Producto1": 5,
+        "Producto2": 10,
+        "Producto3": 15
+    },
+    "Banorte": {
+        "Producto1": 5,
+        "Producto2": 10,
+        "Producto3": 15
+    },
+    "Inbursa": {
+        "Producto1": 5,
+        "Producto2": 10,
+        "Producto3": 15
+    },
+    "Azteca": {
+        "Producto1": 5,
+        "Producto2": 10,
+        "Producto3": 25
+    }
+}
