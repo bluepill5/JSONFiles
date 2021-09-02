@@ -42,9 +42,9 @@
     {
         "name": "Compartamos",
         "productos": {
-            "Producto1": 5,
-            "Producto2": 10,
-            "Producto3": 15
+            "Compartamos1": 5,
+            "Compartamos2": 10,
+            "Compartamos3": 15
         }
     }
 ]
