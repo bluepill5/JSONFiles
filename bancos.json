@@ -2,49 +2,49 @@
     {
         "name": "Bancomer",
         "productos": {
-            "Bancomer1": {"Tasa": [3, 15], "Plazo": [1, 120], "Monto": [1000, 1000000]},
-            "Bancomer2": {"Tasa": [3, 45], "Plazo": [1, 220], "Monto": [1000, 1000000]},
-            "Bancomer3": {"Tasa": [3, 70], "Plazo": [1, 210], "Monto": [1000, 1000000]}
+            "Bancomer1": {"Tasa": [1, 150], "Plazo": [1, 120], "Monto": [1000, 1000000]},
+            "Bancomer2": {"Tasa": [1, 150], "Plazo": [1, 220], "Monto": [1000, 1000000]},
+            "Bancomer3": {"Tasa": [1, 150], "Plazo": [1, 210], "Monto": [1000, 1000000]}
         }
     },
     {
         "name": "Banamex",
         "productos": {
-            "Banamex1": {"Tasa": [3, 15], "Plazo": [1, 120], "Monto": [1000, 1000000]},
-            "Banamex2": {"Tasa": [3, 50], "Plazo": [1, 140], "Monto": [1000, 1000000]},
-            "Banamex3": {"Tasa": [3, 85], "Plazo": [1, 120], "Monto": [1000, 1000000]}
+            "Banamex1": {"Tasa": [1, 150], "Plazo": [1, 120], "Monto": [1000, 1000000]},
+            "Banamex2": {"Tasa": [1, 150], "Plazo": [1, 140], "Monto": [1000, 1000000]},
+            "Banamex3": {"Tasa": [1, 150], "Plazo": [1, 120], "Monto": [1000, 1000000]}
         }
     },
     {
         "name": "Banorte",
         "productos": {
-            "Banorte1": {"Tasa": [3, 15], "Plazo": [1, 120], "Monto": [1000, 1000000]},
-            "Banorte2": {"Tasa": [3, 20], "Plazo": [1, 360], "Monto": [1000, 1000000]},
-            "Banorte3": {"Tasa": [3, 25], "Plazo": [1, 248], "Monto": [1000, 1000000]}
+            "Banorte1": {"Tasa": [1, 150], "Plazo": [1, 120], "Monto": [1000, 1000000]},
+            "Banorte2": {"Tasa": [1, 150], "Plazo": [1, 360], "Monto": [1000, 1000000]},
+            "Banorte3": {"Tasa": [1, 150], "Plazo": [1, 248], "Monto": [1000, 1000000]}
         }
     },
     {
         "name": "Inbursa",
         "productos": {
-            "Inbursa1": {"Tasa": [3, 25], "Plazo": [1, 120], "Monto": [1000, 1000000]},
-            "Inbursa2": {"Tasa": [3, 10], "Plazo": [1, 100], "Monto": [1000, 1000000]},
-            "Inbursa3": {"Tasa": [3, 40], "Plazo": [1, 240], "Monto": [1000, 1000000]}
+            "Inbursa1": {"Tasa": [1, 150], "Plazo": [1, 120], "Monto": [1000, 1000000]},
+            "Inbursa2": {"Tasa": [1, 150], "Plazo": [1, 100], "Monto": [1000, 1000000]},
+            "Inbursa3": {"Tasa": [1, 150], "Plazo": [1, 240], "Monto": [1000, 1000000]}
         }
     },
     {
         "name": "Azteca",
         "productos": {
-            "Azteca1": {"Tasa": [3, 85], "Plazo": [1, 120], "Monto": [100, 100000]},
-            "Azteca2": {"Tasa": [3, 75], "Plazo": [1, 240], "Monto": [100, 100000]},
-            "Azteca3": {"Tasa": [3, 115], "Plazo": [1, 380], "Monto": [100, 100000]}
+            "Azteca1": {"Tasa": [1, 150], "Plazo": [1, 120], "Monto": [100, 100000]},
+            "Azteca2": {"Tasa": [1, 150], "Plazo": [1, 240], "Monto": [100, 100000]},
+            "Azteca3": {"Tasa": [1, 150], "Plazo": [1, 380], "Monto": [100, 100000]}
         }
     },
     {
         "name": "Compartamos",
         "productos": {
-            "Compartamos1": {"Tasa": [3, 115], "Plazo": [1, 120], "Monto": [100, 100000]},
-            "Compartamos2": {"Tasa": [3, 120], "Plazo": [1, 240], "Monto": [100, 100000]},
-            "Compartamos3": {"Tasa": [3, 95], "Plazo": [1, 320], "Monto": [100, 100000]}
+            "Compartamos1": {"Tasa": [1, 150], "Plazo": [1, 120], "Monto": [100, 100000]},
+            "Compartamos2": {"Tasa": [1, 150], "Plazo": [1, 240], "Monto": [100, 100000]},
+            "Compartamos3": {"Tasa": [1, 150], "Plazo": [1, 320], "Monto": [100, 100000]}
         }
     }
 ]
